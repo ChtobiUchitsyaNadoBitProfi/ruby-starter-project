@@ -1,5 +1,3 @@
-require_relative 'temperature'
-
 class Celsius < Temperature
   def to_kelvin
     (@value + 273.15).round(2)
