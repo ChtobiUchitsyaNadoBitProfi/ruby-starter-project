@@ -1,4 +1,3 @@
-require './lib/builder'
 require './lib/temperature'
 
 RSpec.describe Temperature do
